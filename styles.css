@@ -293,7 +293,6 @@ nav ul li a {
     color: var(--secondaryTextColor);
 }
 
-
 /* video */
 
 .video-yt {
@@ -323,6 +322,9 @@ nav ul li a {
 
 }
 /* end of video */
+
+
+
 
 /* section contact */
 #contact {
